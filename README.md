@@ -74,6 +74,7 @@ necessary for each configuration of the network and for each dataset. To cluster
     python main.py --mode=cluster --arch=vgg16 --pooling=netvlad --num_clusters=64
 
 with the correct values for any additional commandline arguments.
-##add-code
+
+## add-code
 change Modified to use a more common dataset rather than .m(matlab) (+ publicdataloader.py)
 and I changes main.py
